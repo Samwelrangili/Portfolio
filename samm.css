@@ -8,6 +8,7 @@ body{
     background-color: thistle;
     width: 1555px;
     height: 200px;
+    font-style: italic;
 }
 #port{
     position: fixed;
