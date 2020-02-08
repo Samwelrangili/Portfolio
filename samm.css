@@ -83,6 +83,10 @@ ul {
     background-position: center;
     background-repeat: no-repeat; 
   }
+  .copy{
+      font-size: 35px;
+      text-align: center;
+  }
  #project img{
        display: block;
        margin: 0 auto;
