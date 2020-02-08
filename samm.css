@@ -1,11 +1,6 @@
-.homepage{
-    background-attachment: fixed;
-    background-position: center ;
-    background-repeat: no-repeat;
-    height: 1500px;
+body{
+    width: 1500px;
 }
-
-
 
 ul {
     list-style-type: none;
