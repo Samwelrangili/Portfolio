@@ -1,6 +1,13 @@
 body{
     width: 1500px;
     background-color: wheat;
+    background-size: auto;
+    overflow: auto;
+}
+.nav{
+    background-color: thistle;
+    width: 1555px;
+    height: 200px;
 }
 #port{
     position: fixed;
