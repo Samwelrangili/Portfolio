@@ -1,6 +1,6 @@
 .homepage{
     background-attachment: fixed;
-    background-position: center center;
+    background-position: center ;
     background-repeat: no-repeat;
     background-size: cover;
     height: 60vh;
@@ -51,6 +51,12 @@ ul {
       background-repeat: no-repeat;
       background-image: url("https://bit.ly/2UvBTwX");
  }
+ .education{
+    font-size: 40px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+ }
 
  #project img{
        display: block;
@@ -93,7 +99,7 @@ ul {
 
 #contacts{
  background-attachment: fixed;
- background-position: center center;
+ background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
 }
