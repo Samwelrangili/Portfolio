@@ -2,8 +2,7 @@
     background-attachment: fixed;
     background-position: center ;
     background-repeat: no-repeat;
-    background-size: cover;
-    height: 60vh;
+    height: 1500px;
 }
 
 
@@ -63,7 +62,12 @@ ul {
     background-position: center;
     background-repeat: no-repeat;
  }
-
+  .interest{
+    font-size: 40px;
+    text-align: left;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
  #project img{
        display: block;
        margin: 0 auto;
