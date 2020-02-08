@@ -2,6 +2,9 @@ body{
     width: 1500px;
     background-color: wheat;
 }
+#port{
+    position: fixed;
+}
 
 ul {
     list-style-type: none;
