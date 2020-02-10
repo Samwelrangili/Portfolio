@@ -11,6 +11,8 @@ CSS
 This porfolio explains more abou myself.
 I build my website using two technologies i.e HTML & CSS
 I design this website within two days.
+## Live link
+https://samwelrangili.github.io/Portfolio.github.io/
 ## Contacts
 Phone number:0758597216/0708861091
 E-mail:samwelrangili896@gmail.com
