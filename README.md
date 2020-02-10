@@ -16,4 +16,4 @@ Phone number:0758597216/0708861091
 E-mail:samwelrangili896@gmail.com
 ## Licence
 This is a free website with no restrictions.
-@copyright2020 Samwel Rangili.
+@copyright2020 Samwel Rangili Adiema.
