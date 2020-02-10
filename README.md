@@ -1,5 +1,5 @@
 ## MY PORTFOLIO
-This is a personal website tha explains more about an individual.
+This is a personal website that explains more about me.
 ## Autor's name
 Samwel Rangili.
 ## Contributors
